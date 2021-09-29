@@ -25,5 +25,5 @@ There are some projects I did related to finance.
 - **Strategies**
   - *Pair trading strategy of inter-temporal futures contract based on spread mean price*
   - *Pair trading strategy of inter-temporal futures contract based on Kalman filter*
-  - *Data cleaning*
+  - [*Data cleaning*](https://github.com/ZengMaolin/my_projects/tree/main/strategies/data%20cleaning)
 
