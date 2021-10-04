@@ -15,3 +15,18 @@ flowchart TD
     M[End];
 ```
 
+```mermaid
+flowchart LR
+    A(Start);
+    A-->B{Use DFT test: \nare both two series\n not stationary};
+    B--no-->M;
+    B--yes-->C{Use DFT test: \nare both two series's \nfirst order differentials stationary};
+    C-- no -->M;
+    C--yes-->D[use OSD to fit two series];
+    D-->E{is the linear combination \nof two series stationary?};
+    E--no-->M;
+    E--yes-->N;
+    M(return False);
+    N(return True);
+```
+
