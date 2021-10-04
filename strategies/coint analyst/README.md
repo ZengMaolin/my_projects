@@ -14,7 +14,9 @@ And in the python, I use the unit root test to check whether a series is station
 
 In the python code, the flow to test two price series of futures' contracts is :
 
- ![截屏2021-10-04 上午10.38.10](picture/截屏2021-10-04 上午10.38.10.png)
+<img src="picture/截屏2021-10-04 上午10.38.10.png" alt="截屏2021-10-04 上午10.38.10" style="zoom:110%;" />
+
+
 
 ## References
 
