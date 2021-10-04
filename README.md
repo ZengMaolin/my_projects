@@ -23,7 +23,7 @@ There are some projects I did related to finance.
 - **Trading system** 
   - *Pair trading system for futures based on CTP interface*
 - **Strategies**
-  - *Pair trading strategy of inter-temporal futures contract based on spread mean price*
+  - [*Pair trading strategy of inter-temporal futures contract based on spread mean price*](https://github.com/ZengMaolin/my_projects/tree/main/strategies/strategy-moving%20average)
   - *Pair trading strategy of inter-temporal futures contract based on Kalman filter*
   - [*Data cleaning*](https://github.com/ZengMaolin/my_projects/tree/main/strategies/data%20cleaning)
   - [*Co-integration analyst*](https://github.com/ZengMaolin/my_projects/tree/main/strategies/coint%20analyst)
