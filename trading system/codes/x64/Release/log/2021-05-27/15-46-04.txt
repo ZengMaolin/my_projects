@@ -1,0 +1,26 @@
+05-27 15:46:04.322: 开始了，开始了 
+05-27 15:47:26.527: init market data 
+05-27 15:47:26.532: sign in 
+05-27 15:47:26.678: ======MD 连接成功====== 
+05-27 15:47:26.683: MD 请求登陆 
+05-27 15:47:26.716: login successfully 
+05-27 15:47:26.716: date:  20210527 
+05-27 15:47:26.716: time:   
+05-27 15:47:26.716: broker ID:   
+05-27 15:47:26.716: user ID:   
+05-27 15:47:28.735: 开始了，开始了05-27 15:47:28.735: >>>>>>send subscribe ok! 
+05-27 15:47:28.735: >>>>>>send subscribe ok! 
+05-27 15:47:28.741: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Release/data/fu2109_fu2201/setting"05-27 15:47:28.745: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Release/data/fu2109_fu2201/history/5000001.dat"05-27 15:47:28.748: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Release/data/fu2109_fu2201/history/5000002.dat"05-27 15:47:28.767: =====successfully subscribe===== 
+05-27 15:47:28.767: contract id:  fu2109 
+05-27 15:47:28.767: =====successfully subscribe===== 
+05-27 15:47:28.767: contract id:  fu2201 
+05-27 15:47:28.900: "开始初始化..." 
+05-27 15:47:28.901: "未登录交易服务器，无法交易！！！" 
+05-27 15:47:38.557: >>>>>>send subscribe ok! 
+05-27 15:47:38.557: >>>>>>send subscribe ok! 
+05-27 15:47:38.558: 开始了，开始了05-27 15:47:38.589: =====successfully subscribe===== 
+05-27 15:47:38.589: contract id:  rb2105 
+05-27 15:47:38.589: =====successfully subscribe===== 
+05-27 15:47:38.589: contract id:  rb2107 
+05-27 15:47:38.606: "开始初始化..." 
+05-27 15:47:38.606: "未登录交易服务器，无法交易！！！" 

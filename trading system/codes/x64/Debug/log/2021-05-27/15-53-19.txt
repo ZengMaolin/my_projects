@@ -1,0 +1,18 @@
+05-27 15:53:19.472: 开始了，开始了 
+05-27 15:53:21.734: init market data 
+05-27 15:53:21.745: sign in 
+05-27 15:53:21.889: ======MD 连接成功====== 
+05-27 15:53:21.896: MD 请求登陆 
+05-27 15:53:21.927: login successfully 
+05-27 15:53:21.927: date:  20210527 
+05-27 15:53:21.927: time:   
+05-27 15:53:21.927: broker ID:   
+05-27 15:53:21.927: user ID:   
+05-27 15:53:23.656: >>>>>>send subscribe ok! 
+05-27 15:53:23.656: 开始了，开始了05-27 15:53:23.656: >>>>>>send subscribe ok! 
+05-27 15:53:23.663: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Debug/data/ni2107_ni2108/setting"05-27 15:53:23.669: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Debug/data/ni2107_ni2108/history/1-5000001.dat"05-27 15:53:23.675: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Debug/data/ni2107_ni2108/history/2-5000002.dat"05-27 15:53:23.681: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Debug/data/ni2107_ni2108/history/3-5000003.dat"05-27 15:53:23.686: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Debug/data/ni2107_ni2108/history/4-5000004.dat"05-27 15:53:23.689: =====successfully subscribe===== 
+05-27 15:53:23.689: contract id:  ni2107 
+05-27 15:53:23.689: =====successfully subscribe===== 
+05-27 15:53:23.689: contract id:  ni2108 
+05-27 15:53:24.016: "开始初始化..." 
+05-27 15:53:24.017: "未登录交易服务器，无法交易！！！" 

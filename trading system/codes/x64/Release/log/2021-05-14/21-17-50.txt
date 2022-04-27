@@ -1,0 +1,19 @@
+05-14 21:17:49.617: 开始了，开始了 
+05-14 21:17:55.719: init market data 
+05-14 21:17:55.728: sign in 
+05-14 21:17:55.880: ======MD 连接成功====== 
+05-14 21:17:55.886: MD 请求登陆 
+05-14 21:17:55.920: login successfully 
+05-14 21:17:55.920: date:  20210517 
+05-14 21:17:55.920: time:   
+05-14 21:17:55.920: broker ID:   
+05-14 21:17:55.920: user ID:   
+05-14 21:18:14.898: 开始了，开始了05-14 21:18:14.898: >>>>>>send subscribe ok! 
+05-14 21:18:14.898: >>>>>>send subscribe ok! 
+05-14 21:18:14.906: "加载:H:/code/shige/newproject/ctp/x64/Release/data/fu2109_fu2201/setting"05-14 21:18:14.909: "加载:H:/code/shige/newproject/ctp/x64/Release/data/fu2109_fu2201/history/5000001.dat"05-14 21:18:14.913: "加载:H:/code/shige/newproject/ctp/x64/Release/data/fu2109_fu2201/history/5000002.dat"05-14 21:18:14.931: =====successfully subscribe===== 
+05-14 21:18:14.931: contract id:  fu2109 
+05-14 21:18:14.931: =====successfully subscribe===== 
+05-14 21:18:14.931: contract id:  fu2201 
+05-14 21:18:15.056: "开始初始化..." 
+05-14 21:18:15.057: "未登录交易服务器，无法交易！！！" 
+05-14 21:18:29.956: QObject::killTimer: Timers cannot be stopped from another thread05-14 21:18:29.956: QObject::~QObject: Timers cannot be stopped from another thread

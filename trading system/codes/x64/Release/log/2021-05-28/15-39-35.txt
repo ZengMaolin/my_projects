@@ -1,0 +1,16 @@
+05-28 15:39:35.004: 开始了，开始了 
+05-28 15:39:36.902: init market data 
+05-28 15:39:36.904: sign in 
+05-28 15:39:37.029: ======MD 连接成功====== 
+05-28 15:39:37.035: MD 请求登陆 
+05-28 15:39:37.068: login successfully 
+05-28 15:39:37.068: date:  20210528 
+05-28 15:39:37.068: time:   
+05-28 15:39:37.068: broker ID:   
+05-28 15:39:37.068: user ID:   
+05-28 15:39:38.467: 开始了，开始了05-28 15:39:38.467: >>>>>>send subscribe ok! 
+05-28 15:39:38.467: >>>>>>send subscribe ok! 
+05-28 15:39:38.471: "加载:H:/code/shige/newproject/ctp_自动化交易/x64/Release/data/rb2105_rb2107/setting"05-28 15:39:38.508: =====successfully subscribe===== 
+05-28 15:39:38.508: contract id:  rb2105 
+05-28 15:39:38.508: =====successfully subscribe===== 
+05-28 15:39:38.508: contract id:  rb2107 

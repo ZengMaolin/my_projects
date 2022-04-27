@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/ctp">
+    <file>temp.ico</file>
+    <file>image/position.jpeg</file>
+    <file>image/trading.jpeg</file>
+  </qresource>
+</RCC>
